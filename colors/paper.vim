@@ -283,6 +283,8 @@ Hi LspDiagnosticsUnderlineWarning NONE NONE undercurl yellow
 Hi LspReferenceRead NONE NONE underline
 Hi LspReferenceText NONE NONE underline
 Hi LspReferenceWrite NONE NONE underline
+hi! link LspCodeLens Comment
+hi! link LspCodeLensSeparator Comment
 
 " Make
 hi! link makeTarget Function
