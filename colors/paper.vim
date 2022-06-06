@@ -172,6 +172,7 @@ Hi Todo grey NONE bold
 Hi VertSplit lgrey2 NONE NONE
 Hi WarningMsg orange NONE bold
 Hi Underlined NONE NONE underline
+Hi Function yellow NONE bold
 
 hi! link Boolean Keyword
 hi! link Character String
@@ -370,6 +371,9 @@ hi! link yamlPlainScalar String
 hi! link yardComment Comment
 hi! link yardType Todo
 hi! link yardTypeList Todo
+
+" lspcxx
+Hi LspCxxHlGroupMemberVariable orange NONE NONE
 
 delcommand Hi
 
