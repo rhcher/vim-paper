@@ -373,7 +373,7 @@ hi! link yardType Todo
 hi! link yardTypeList Todo
 
 " lspcxx
-Hi LspCxxHlGroupMemberVariable orange NONE NONE
+Hi LspCxxHlGroupMemberVariable cyan NONE NONE
 
 delcommand Hi
 
