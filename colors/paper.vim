@@ -173,6 +173,7 @@ Hi VertSplit lgrey2 NONE NONE
 Hi WarningMsg orange NONE bold
 Hi Underlined NONE NONE underline
 Hi Function yellow NONE bold
+Hi WinBar black NONE NONE
 
 hi! link Boolean Keyword
 hi! link Character String
